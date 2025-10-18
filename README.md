@@ -154,3 +154,15 @@ Slicers تفاعلية ومؤشرات أداء رئيسية (KPIs)
 مصدر البيانات:
 
 https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset
+
+
+
+#### Amazon Sales Dashboard
+<img width="591" height="329" alt="Amazon Sales Analysis-" src="https://github.com/user-attachments/assets/c68a2ec6-efa8-44ad-9810-e93f57bf283e" />
+
+
+
+
+https://github.com/user-attachments/assets/a7739640-83c3-43f6-82c4-ffe1066d7890
+
+
